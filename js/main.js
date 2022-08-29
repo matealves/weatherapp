@@ -153,7 +153,7 @@ async function fetchWeatherData() {
       } else {
         app.style.backgroundImage = `url(./images/${timeOfDay}/snowy.jpg)`;
         btn.style.background = "#4d72aa";
-        img.style.filter = "none";
+        img.style.filter = "drop-shadow(0 0 1rem #fff)";
         if (timeOfDay == "night") {
           btn.style.background = "#1b1b1b";
         }
