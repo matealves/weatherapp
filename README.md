@@ -17,7 +17,7 @@
 
 <div id="visao">
 <h1>Visão geral</h1>
-É possível saber a previsão do tempo de qualquer cidade do mundo com este <strong>Weather App</strong>, basta pesquisar pela localização desejada no campo de busca, ou clicar em uma das cidades fixadas no <strong>painel</strong>. Dados em tempo real consmidos de uma API que disponibiliza uma série de dados climáticos. No projeto é exibido ao usuário a temperatura atual, a máxima e a mínima. Além de percentual de nuvens no céu, umidade e velocidade do vento, clique no link a seguir para <strong>testar </strong>a aplicação.
+É possível saber a previsão do tempo de qualquer cidade do mundo com este <strong>Weather App</strong>, basta pesquisar pela localização desejada no campo de busca, ou clicar em uma das cidades fixadas no <strong>painel</strong>. Dados em tempo real consumidos de uma API que disponibiliza uma série de dados climáticos. No projeto é exibido ao usuário a temperatura atual, a máxima e a mínima. Além de percentual de nuvens no céu, umidade e velocidade do vento, clique no link a seguir para <strong>testar </strong>a aplicação.
 </div>
 <br>
 <br>
